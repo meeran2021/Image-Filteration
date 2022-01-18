@@ -41,4 +41,8 @@ https://www.geeksforgeeks.org/how-to-install-pil-on-windows/
 Don't forget to check the destination folder whether it contains desired files or not.
 
 
+**Third version** is preety much similar as second one, It only have extra feature of **renaming of the files** in bulk.
+
+
+
 For any issue, feel free to connect.
